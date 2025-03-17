@@ -25,7 +25,7 @@ ML_Assignment/
 ## 📌 2. Setup Instructions  
 ### 🔹 Step 1: Clone the Repository  
 ```sh
-git clone https://github.com/YOUR_USERNAME/ML_Assignment.git
+git clone (https://github.com/AnnapurnaVaishu/predicting-mycotoxin-levels-DON-concentration-.git)
 cd ML_Assignment
 ```
 
